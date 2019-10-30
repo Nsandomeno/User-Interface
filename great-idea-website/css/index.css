@@ -160,4 +160,20 @@ h2{
 	margin-left: 5%;
 	margin-right: 5%;
 }
+.middle{
+	border-bottom: 3px solid black;
+}
+h3{
+	font-size: 17px;
+	margin-left: 5%;
+	margin-top: 20px;
+}
+address{
+	margin-left: 5%;
+	line-height: 1.5;
+}
+footer{
+	text-align: center;
+}
+
 
