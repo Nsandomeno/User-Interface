@@ -120,4 +120,44 @@ button {
 .top {
 	border-bottom: 5px solid black;
 }
+h2{
+	font-size: 25px;
+	text-align: left;
+}
+.Features{
+	display: inline-block;
+	width: 30%;
+	margin-left:5%;
+	margin-right: 5%;
+}
+.About{
+	display: inline-block;
+	width: 30%;
+	margin-left: 15%;
+	margin-right: 5%;
+}
+.middle-img{
+	text-align: center;
+	margin-left: 5%;
+	margin-right: 5%;
+	width: 80%;
+}
+.Services{
+	display: inline-block;
+	width: 20%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+.Products {
+	display: inline-block;
+	width: 20%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+.Vision{
+	display: inline-block;
+	width: 20%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
 
