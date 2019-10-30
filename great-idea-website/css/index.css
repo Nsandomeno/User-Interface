@@ -85,4 +85,39 @@ margin-right: 0%:
 	color: grey;
 	padding-bottom: 5px;
 }
+h1{
+	font-size: 100px;
+	display: inline-block;
+	margin-left: 10%;
+	margin-right: 0%;
+	margin-bottom: 3%;
+	margin-top: 0%;
+	padding-top: 0px;
+	
+	width: 470px;
+	height:400px;
+	padding-bottom: 50px;
+	text-align: center;
+}
+.first{
+	text-align:right;
+	margin-top: 10%;
+	margin-left: 7.5%;
+	padding-top: 20px;
+	width: 600px;
+	height: 450px;
+}
+button {
+	display: block;
+	width: 100px;
+	height: 60px;
+	background-color: white;
+	font-size: 20px;
+	margin-left: 25%;
+	border: 5px solid black;
+	margin-bottom: 15px;
+}
+.top {
+	border-bottom: 5px solid black;
+}
 
